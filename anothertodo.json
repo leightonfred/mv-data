@@ -9,8 +9,12 @@
 			"taskTitle": "talk"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "walk"
+		},
+		{
+			"done": false,
+			"taskTitle": "study"
 		}
 	]
 }
