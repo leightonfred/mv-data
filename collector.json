@@ -1,0 +1,54 @@
+{
+	"book": [
+		{
+			"title": "Amazing Spider-Man",
+			"number": "129",
+			"month": "February",
+			"year": "1974",
+			"publisher": "Marvel",
+			"condition": 80,
+			"value": "500",
+			"picture": "01"
+		},
+		{
+			"title": "Amazing Spider-Man",
+			"number": "101",
+			"month": "October",
+			"year": "1971",
+			"publisher": "Marvel",
+			"condition": 94,
+			"value": "800",
+			"picture": "02"
+		},
+		{
+			"title": "Fantastic Four",
+			"number": "99",
+			"month": "June",
+			"year": "1970",
+			"publisher": "Marvel",
+			"condition": 98,
+			"value": "500",
+			"picture": "03"
+		},
+		{
+			"title": "Batman Family",
+			"number": "2",
+			"month": "December",
+			"year": "1975",
+			"publisher": "DC",
+			"condition": 92,
+			"value": "200",
+			"picture": "04"
+		},
+		{
+			"title": "Superman Vs. Muhamed Ali",
+			"number": "na",
+			"month": "na",
+			"year": "1978",
+			"publisher": "DC",
+			"condition": 90,
+			"value": "1000",
+			"picture": "05"
+		}
+	]
+}
