@@ -49,6 +49,16 @@
 			"condition": 90,
 			"value": "1000",
 			"picture": "05"
+		},
+		{
+			"title": "Uncanny X-Men",
+			"number": "100",
+			"month": "August",
+			"year": "1976",
+			"publisher": "Marvel",
+			"condition": 98,
+			"value": "1200",
+			"picture": "06"
 		}
 	]
 }
