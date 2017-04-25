@@ -9,8 +9,12 @@
 			"taskTitle": "WALK"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "TALK"
+		},
+		{
+			"done": false,
+			"taskTitle": "watchtv"
 		}
 	]
 }
