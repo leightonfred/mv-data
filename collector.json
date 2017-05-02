@@ -9,60 +9,6 @@
 			"condition": 15,
 			"value": "10",
 			"picture": "01"
-		},
-		{
-			"title": "Amazing Spider-Man",
-			"number": "101",
-			"month": "October",
-			"year": "1971",
-			"publisher": "Marvel",
-			"condition": 94,
-			"value": "1200",
-			"picture": "02"
-		},
-		{
-			"title": "Fantastic Four",
-			"number": "99",
-			"month": "June",
-			"year": "1970",
-			"publisher": "Marvel",
-			"condition": 98,
-			"value": "800",
-			"picture": "03"
-		},
-		{
-			"title": "Batman Family",
-			"number": "2",
-			"month": "December",
-			"year": "1975",
-			"publisher": "DC",
-			"condition": 92,
-			"value": "400",
-			"picture": "04"
-		},
-		{
-			"title": "Uncanny X-Men",
-			"number": "100",
-			"month": "August",
-			"year": "1976",
-			"publisher": "Marvel",
-			"condition": 98,
-			"value": "1500",
-			"picture": "06"
-		},
-		{
-			"title": "Invincible Iron-Man",
-			"number": "1",
-			"month": "July",
-			"year": "1960",
-			"publisher": "Marvel",
-			"condition": 65,
-			"value": "2000",
-			"picture": "07"
-		},
-		{
-			"condition": 50,
-			"picture": "05\n"
 		}
 	]
 }
